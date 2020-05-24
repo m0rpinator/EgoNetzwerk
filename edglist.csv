@@ -1,6 +1,0 @@
-from,to,weight,duration,relationship
-Ego,Julius,4,3,0
-Ego,Fredi,4,2,0
-Ego,Cam,3,1,0
-Ego,Antje,4,3,1
-Julius ,Fredi,4,3,0
